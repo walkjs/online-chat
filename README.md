@@ -1,17 +1,22 @@
-# 应用市场
+﻿# 聊天室
 
 ## Build Setup
 
-``` bash
-# install dependencies
-npm install
+```
+# 安装vue-cli依赖
+cnpm install
 
-# serve with hot reload at localhost:8080
+# 启动vue-cli
 npm run dev
 
-# build for production with minification
-npm run build
+# 安装node.js依赖
+cd server
+cnpm install
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# 开启node.js
+node index
+
+# 访问链接
+http://localhost:8080
+
 ```

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.16.4",
+    "vue-socket.io": "^3.0.7"
+  }
+}

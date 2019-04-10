@@ -1,8 +1,8 @@
 {
   "name": "appmarket",
   "version": "1.0.0",
-  "description": "ltb appmarket",
-  "author": "gaoc <2286949954@qq.com>",
+  "description": "chat",
+  "author": "hzc <15659981870m@sina.cn>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -64,7 +64,7 @@
     "vue-template-compiler": "^2.5.2",
     "webpack": "^3.6.0",
     "webpack-bundle-analyzer": "^2.9.0",
-    "webpack-dev-server": "^3.1.11",
+    "webpack-dev-server": "^2.9.1",
     "webpack-merge": "^4.1.0"
   },
   "engines": {
